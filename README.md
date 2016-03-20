@@ -36,7 +36,7 @@ You should submit the following files as your submission, packaged in a single .
 
 #Evaluation
 
-Your project will be reviewed by a Udacity reviewer against this rubric. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against [this rubric](https://docs.google.com/document/d/1NMOgsa-53fmXjZDJ_v9OfDrkrsPYdijFKB1iAA1HAIs/pub?embedded=true). Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 #Submission
 
