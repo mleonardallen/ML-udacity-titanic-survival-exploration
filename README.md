@@ -1,6 +1,6 @@
 #Project Overview
 
-Welcome to the Machine Learning Engineer Nanodegree! In this *optional* project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
+Welcome to the Machine Learning Engineer Nanodegree! In this **optional** project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
 
 In addition, you'll make sure Python is installed with the necessary packages to complete this project. There are two Python libraries, `numpy` and `pandas`, that we'll use a bit here in this project. Don't worry about how they work for now — we'll get to them in Project 1. This project will also familiarize you with the submission process for the projects that you will be completing as part of the Nanodegree program.
 
@@ -14,11 +14,11 @@ This project uses the following software and Python libraries:
 - matplotlib
 - iPython Notebook
 
-If you already have Python 2.7 installed on your computer, then you can install NumPy scikit-learn, and iPython Notebook by using pip on the command line. This page may also be of use for some packages for Windows users, if pip has trouble performing the installation. If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you already have Python 2.7 installed on your computer, then you can install NumPy scikit-learn, and iPython Notebook by using [pip](https://pip.pypa.io/en/stable/) on the command line. [This page](http://www.lfd.uci.edu/~gohlke/pythonlibs/) may also be of use for some packages for Windows users, if pip has trouble performing the installation. If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
 # Starting the Project
 
-You can download the .zip archive containing the necessary project files from the *Downloadables* section below. This archive contains three files:
+You can download the .zip archive containing the necessary project files from the **Downloadables** section below. This archive contains three files:
 
 - `Titanic_Survival_Exploration.ipynb`: This is the main file where you will be performing your work on the project.
 - `titanic_data.csv`: The project dataset. You’ll load this data in the notebook.
