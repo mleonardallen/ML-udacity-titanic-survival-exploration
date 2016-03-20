@@ -20,9 +20,9 @@ If you already have Python 2.7 installed on your computer, then you can install 
 
 You can download the .zip archive containing the necessary project files from the Downloadables section below. This archive contains three files:
 
-Titanic_Survival_Exploration.ipynb: This is the main file where you will be performing your work on the project.
-titanic_data.csv: The project dataset. You’ll load this data in the notebook.
-titanic_visualizations.py: This Python script contains helper functions that will visualize the data and survival outcomes.
+- `Titanic_Survival_Exploration.ipynb`: This is the main file where you will be performing your work on the project.
+- `titanic_data.csv`: The project dataset. You’ll load this data in the notebook.
+- `titanic_visualizations.py`: This Python script contains helper functions that will visualize the data and survival outcomes.
 To open up the iPython notebook, you will need to open the Command Prompt or PowerShell (Windows), or Terminal application (Mac, Linux). Use the cd command to navigate through the file structure of your computer to where you extracted the project files. For example, on Windows you might start with cd C:\Users\username\Documents\ (substituting in the username) to get to the Documents folder. On Mac you might start with cd ~/Documents/. You can use the dir (Windows) or ls (Mac, Linux) command to list files and folders in your current directory; cd .. will move you up a directory if you get lost.
 
 Once you’ve navigated to the folder containing the project files, you can use the command ipython notebook Titanic_Survival_Exploration.ipynb to open up a browser window or tab to work with your notebook. There are five questions in the notebook that you need to complete for the project.
