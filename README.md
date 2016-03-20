@@ -33,3 +33,17 @@ You should submit the following files as your submission, packaged in a single .
 
 - Completed `Titanic_Survival_Exploration.ipynb` notebook with answers on all questions and cells run successfully with output.
 - HTML export of the notebook. Instructions for export are at the bottom of the notebook; you may need to install the [mistune](https://pypi.python.org/pypi/mistune) package first, e.g. via `pip install mistune` in the terminal.
+
+#Evaluation
+
+Your project will be reviewed by a Udacity reviewer against this rubric. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+
+#Submission
+
+When you're ready to submit your project go back to your Udacity Home, click on Project 0, and we'll walk you through the rest of the submission process.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the discussion forums.
+
+#What's Next?
+
+You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
